@@ -1,7 +1,7 @@
 # Hosted-Player
 
 
-This code is part of the Work: **Hosted Player - Revisiting Olia Lialina's web performance for a swimmer "Hosted"**.<br/>
+This code is part of the Work: **Hosted Player - Revisiting Olia Lialina's network performance for a swimmer "Hosted"**.<br/>
 A tribute to the **Lialina's work** available at: https://hosted.z21.web.core.windows.net/<br/>
 <br/>
 <br/>
