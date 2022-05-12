@@ -22,7 +22,7 @@ linksDiv.prepend(title);
 alert("Lights Off...");
 linksDiv.scrollIntoView({behavior: "smooth"});
 let swimming = setInterval(() => {
-	player.src = links[count % links.length];
+  player.src = links[count % links.length];
   title.innerText = player.src;
   count++;
 }, speed);
