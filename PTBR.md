@@ -1,6 +1,6 @@
 # **Hosted Player**
 
-###### For english read [Click Here](https://github.com/rochasdemarte/Hosted-Player/edit/main/README.md)<br/>
+###### For english read [Click Here](https://github.com/rochasdemarte/Hosted-Player/blob/main/README.md)<br/>
 Esse código faz parte do trabalho: **Hosted Player - Revisitando a obra "Hosted" *network performance for a swimmer* de Olia Lialina**.<br/>
 Uma homenagem ao **trabalho de Lialina** disponível em: https://hosted.z21.web.core.windows.net/<br/>
 <br/>
