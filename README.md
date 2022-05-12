@@ -1,4 +1,4 @@
-# Hosted-Player
+# Hosted Player
 
 
 This code is part of the Work: **Hosted Player - Revisiting Olia Lialina's network performance for a swimmer "Hosted"**.<br/>
