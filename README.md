@@ -1,6 +1,6 @@
 # **Hosted Player**
 
-###### Para ler em português [Clique Aqui](https://github.com/rochasdemarte/Hosted-Player/main/PTBR.md)<br/>
+###### Para ler em português [Clique Aqui](https://github.com/rochasdemarte/Hosted-Player/blob/main/PTBR.md)<br/>
 This code is part of the Work: **Hosted Player - Revisiting Olia Lialina's network performance for a swimmer "Hosted"**.<br/>
 A tribute to the **Lialina's work** available at: https://hosted.z21.web.core.windows.net/<br/>
 <br/>
