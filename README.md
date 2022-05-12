@@ -1,12 +1,17 @@
 # Hosted-Player
 
 
-This code is part of the Web performance: Hosted Player - Revisiting Olia Lialina's web performance for a swimmer "Hosted".
-A tribute to the Lialina's work available at: https://hosted.z21.web.core.windows.net/  
-
-
-Try it yourself:
-```
+This code is part of the Web performance: Hosted Player - Revisiting Olia Lialina's web performance for a swimmer "Hosted".<br/>
+A tribute to the Lialina's work available at: https://hosted.z21.web.core.windows.net/<br/>
+<br/>
+<br/>
+You can call it a Performance, or maybe an Intervention but...<br/>
+It's a sort of web video player, suggesting new ways of seeing the artist's work.
+<br/>
+### Try it yourself:
+- Just go to Lialina's work's website ["Hosted"](https://hosted.z21.web.core.windows.net/).<br/>
+- And then enter the code below on the Console of the development tool.
+```javascript
 let linksDiv = document.querySelector('#links');
 let links = [];
 linksDiv.childNodes.forEach(node => {
