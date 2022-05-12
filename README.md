@@ -1,18 +1,18 @@
 # Hosted-Player
 
 
-This code is part of the Work: Hosted Player - Revisiting Olia Lialina's web performance for a swimmer "Hosted".<br/>
-A tribute to the Lialina's work available at: https://hosted.z21.web.core.windows.net/<br/>
+This code is part of the Work: **Hosted Player - Revisiting Olia Lialina's web performance for a swimmer "Hosted"**.<br/>
+A tribute to the **Lialina's work** available at: https://hosted.z21.web.core.windows.net/<br/>
 <br/>
 <br/>
 ![](https://github.com/rochasdemarte/Hosted-Player/blob/main/Hosted-Player.gif)
 <br/><br/>
 You can call it a Performance, or maybe an Intervention but...<br/>
-It's a sort of a lazy web video player, suggesting new ways of seeing the artist's work.
+It's a sort of a lazy web video player, suggesting **new ways of seeing the artist's work**.
 <br/>
 ### Try it yourself:
-- Just go to Lialina's work's website ["Hosted"](https://hosted.z21.web.core.windows.net/).<br/>
-- And then enter the code below on the Console of the developer tools.
+- Just go to **Lialina's** work's website ["Hosted"](https://hosted.z21.web.core.windows.net/).<br/>
+- And then enter the code below on the **`Console`** of the **developer tools**.
 ```javascript
 let linksDiv = document.querySelector('#links');
 let links = [];
