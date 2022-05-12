@@ -1,7 +1,7 @@
 # Hosted-Player
 
 
-This code is part of the Web performance: Hosted Player - Revisiting Olia Lialina's web performance for a swimmer "Hosted".<br/>
+This code is part of the Work: Hosted Player - Revisiting Olia Lialina's web performance for a swimmer "Hosted".<br/>
 A tribute to the Lialina's work available at: https://hosted.z21.web.core.windows.net/<br/>
 <br/>
 <br/>
@@ -10,7 +10,7 @@ It's a sort of web video player, suggesting new ways of seeing the artist's work
 <br/>
 ### Try it yourself:
 - Just go to Lialina's work's website ["Hosted"](https://hosted.z21.web.core.windows.net/).<br/>
-- And then enter the code below on the Console of the development tool.
+- And then enter the code below on the Console of the developer tools.
 ```javascript
 let linksDiv = document.querySelector('#links');
 let links = [];
