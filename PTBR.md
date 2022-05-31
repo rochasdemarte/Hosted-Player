@@ -11,7 +11,7 @@ Você pode chamar de Performance, ou talvez de  Intervenção mas...<br/>
 É meio que um tipo de web reprodutor de vídeo preguiçoso, sugerindo **novos meios de ver o trabalho da artista**.
 <br/>
 ### Tente você mesmo:
-- Apenas vá até o site do trabalho de **Lialina's**: ["Hosted"](https://hosted.z21.web.core.windows.net/).<br/>
+- Apenas vá até o site do trabalho de **Lialina**: ["Hosted"](https://hosted.z21.web.core.windows.net/).<br/>
 - E então insira o código abaixo no **`Console`** do **developer tools**.
 ```javascript
 let linksDiv = document.querySelector('#links');
